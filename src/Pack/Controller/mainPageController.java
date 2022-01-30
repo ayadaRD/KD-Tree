@@ -61,7 +61,7 @@ public class mainPageController {
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     //points would save in this file
-    static File file = new File("C:\\Users\\USER\\Desktop\\FinalProject\\src\\File\\repairPoints.txt");
+    static File file = new File("C:\\FilePath\\repairPoints.txt");
 
     //also points in file would save in this 2d array
     static ArrayList<ArrayList<Double>> points ;
